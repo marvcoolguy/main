@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm WASI TECH</h1>
-<h3 align="center">A passionate backend developer from PAKISTAN</h3>
+<h1 align="center">Hi 👋, I'm Marvelous</h1>
+<h3 align="center">A passionate frotend developer from Nigeria.</h3>
 <p align="center">
   <a href="https://chat.whatsapp.com/IcqWhTW0vgw4A4N1IPA03J">
     <img alt=Support height="350" src="https://i.imgur.com/VLOJi4f.jpg"> 
     </p 
     
 ### Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chwaseem565/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marvcoolguy/)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25C2%25A7.2B%25F0%259F%2598%2582-%2300E676.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923192173398)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25C2%25A7.2B%25F0%259F%2598%2582-%2300E676.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+2348152521114)
 
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itxwasi)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itxxwasi&label=Profile%20views&color=0e75b6&style=flat" alt="wasixd" /> </p>
@@ -17,17 +17,15 @@
 
 <p align="left"> <a href="https://twitter.com/itxmewasi1" target="blank"><img src="https://img.shields.io/twitter/follow/itxmewasi1?logo=twitter&style=for-the-badge" alt="itxmewasi1" /></a> </p>
 
-- 🔭 I’m currently working on **WHATSAPP REBORTS.FACBOOK REBOOT INSTA TELEGRAM**
+- 🔭 I’m currently working on **Some Projects**
 
-- 🌱 I’m currently learning **PAYTHON C++,JAVA,PYTHON,SQL**
+- 🌱 I’m currently learning **Javascript, Jquery, React and Vue.js**
 
-- 👯 I’m looking to collaborate on **WASI-TECH**
+- 🤝 I’m looking for help with **MY REACT PROJECT**
 
-- 🤝 I’m looking for help with **WITH PAYTHON PROJECT**
+- 💬 Ask me about **FRONTEND DEVELOPMENT**
 
-- 💬 Ask me about **BACKEND DEVELOPMENT**
-
-- 📫 How to reach me **itxmewasi@gmail.com**
+- 📫 How to reach me **marvmart010@gmail.com**
 
 - ⚡ Fun fact **i think am rude**
 
